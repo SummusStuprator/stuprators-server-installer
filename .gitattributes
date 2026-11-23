@@ -1,4 +1,4 @@
-# Keep the installer byte-for-byte identical to the release (CRLF, matches SHA256.txt)
-dist/*.cmd -text
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
+# Keep the released installer byte-for-byte identical (matches SHA256.txt)
+dist/*.cmd binary

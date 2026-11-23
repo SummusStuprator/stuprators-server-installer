@@ -6,7 +6,7 @@
 
 **The optional Windows Tor connector for ERRATA**
 
-<sub>A horror world that branches sideways, up and down. Twenty slots. Always night.</sub>
+<sub>DEMO SERVER</sub>
 
 <br>
 
